@@ -1,0 +1,13 @@
+.rodape{
+    padding-top: 80vh;
+}
+footer{
+    text-align: center;
+    background-color: tomato;
+    padding: 1rem;
+    box-sizing: border-box;
+    /*deixar o footer sempre embaixo*/
+}
+footer p{
+    color: #fff;
+}

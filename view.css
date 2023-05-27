@@ -1,0 +1,15 @@
+.view{
+    text-align: center;
+    margin-top: 3rem;
+}
+.card{
+    text-align: center;
+    padding: 3rem;
+    width: 40%;
+    margin: 2rem auto 0 auto;
+    border: 5px;
+    box-shadow: 0 0 5px 5px #ccc;
+}
+p{
+    margin-top: 2rem;
+}
